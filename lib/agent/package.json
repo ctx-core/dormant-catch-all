@@ -31,7 +31,7 @@
 		"cache": "~/.npm"
 	},
 	"devDependencies": {
-		"typescript": "^3.7.2"
+		"typescript": "^5.9.3"
 	},
 	"gitHead": "d7b8eb41da04c57935a638c2fd45b82b375bfd61"
 }

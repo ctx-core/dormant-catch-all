@@ -41,12 +41,11 @@
 		"test": ":"
 	},
 	"dependencies": {
-		"@pnpm/list": "^9.1.4",
-		"@pnpm/sort-packages": "^5.0.7",
+		"@pnpm/list": "^1000.3.2",
+		"@pnpm/sort-packages": "^1000.0.16",
 		"esm": "^3.2.25"
 	},
-	"devDependencies": {
-	},
+	"devDependencies": {},
 	"pnpm": {
 		"overrides": {
 			"@ctx-core/*": "*",

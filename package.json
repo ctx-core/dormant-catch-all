@@ -28,7 +28,7 @@
 	"bin": {
 		"build-watch": "./bin/build-watch.sh",
 		"ctx_core__monorepo_pnpm__dependencies__update": "./bin/ctx_core__monorepo_pnpm__dependencies__update.sh",
-		"pnpm-up": "./bin/pnpm-up.sh",
+		"bun-update": "./bin/bun-update.sh",
 		"rm_src_js_dts": "./bin/rm_src_js_dts.sh",
 		"strip-workspace": "./bin/strip-workspace.sh",
 		"tmux-dev": "./bin/tmux-dev.sh",
@@ -49,8 +49,7 @@
 	"pnpm": {
 		"overrides": {
 			"@ctx-core/*": "*",
-			"chalk": "4.1.2",
-			"nodegit": "next"
+			"chalk": "4.1.2"
 		}
 	},
 	"noUpdate": [],
